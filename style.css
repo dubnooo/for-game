@@ -1,0 +1,9 @@
+html{
+    color:red ;
+    background-color:black ;
+ 
+}
+.header{
+  display: flex;
+  justify-content: flex-start;
+}
